@@ -7,11 +7,16 @@ The Art of Investigation project includes important concepts that can be the fou
 ![Splunk - Art of Investigating](https://github.com/user-attachments/assets/3fd84885-f29e-41e7-a1ef-34b9f4fe5c92)
 
 ### Skills Learned
-▪ Apply the five basic stages of investigation according to Splunk 
+▪ Apply the five basic stages of investigation according to Splunk
+
 ▪ Understand how common SPL terms can be used during investigations 
+
 ▪ Explain the use and function of interesting fields within Splunk with a focus on Security use cases.
+
 ▪ Identify common CIM fields that may be used in investigations. 
+
 ▪ Distinguish common dispositions of events and correctly assign them.
+
 
 ### Tools Used
 ▪ Splunk training tools and command.
